@@ -1,0 +1,31 @@
+.container{
+    width: 80%;
+    margin: auto;
+}
+.header h1{
+    font-size: 80px;
+    font-weight: 700;
+}
+.header p{
+    padding-top: 45px;
+    font-size: 35px;
+    font-weight: 400;
+}
+.ttn{
+    width: 240px;
+    height: 80px;
+    border-style: solid;
+    background-color: blue;
+    color: white;
+}
+.ttn:hover{
+    width: 240px;
+    height: 80px;
+    border-style: solid;
+    background-color: green;
+    color: white;
+    transition: all 0.2s;
+}
+.header h1{
+    font-family: "Alfa Slab One", serif;
+}
